@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Rajveer Deka / Electrical and Computer Engineering Portfolio"
+title                    : "Raj's Homepage"
 title_separator          : "-"
 name                     : &name "Rajveer Deka"
 description              : &description "Undergraduate Electrical and Computer Engineering student at UT Austin specializing in microchip development, circuit logic, and system design optimization."   # Update this with a general description of your site, this is the default if not overridden by a page
