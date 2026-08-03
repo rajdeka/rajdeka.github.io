@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-👨🏻‍💻 I’m an undergraduate Electrical and Computer Engineering Honors student at The University of Texas at Austin. I am actively seeking an industry internship in hardware design and microarchitecture.
+👨🏻‍💻 I’m an undergraduate Electrical and Computer Engineering student at The University of Texas at Austin. I am actively seeking an industry internship in hardware design and microarchitecture.
 
 🔬 I am focusing my studies on microchip development, circuit logic, and RTL design.
 
