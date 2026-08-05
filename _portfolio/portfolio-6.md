@@ -1,6 +1,6 @@
 ---
 title: "Custom Buck Converter PCB Design"
-excerpt: "Designed and fabricated a custom printed circuit board for a buck converter to provide efficient voltage step-down regulation."
+excerpt: "Designed and fabricated a custom printed circuit board for a buck converter to provide efficient voltage step-down regulation.<br/><img src='/images/buckconverter.png'>"
 collection: portfolio
 ---
 
