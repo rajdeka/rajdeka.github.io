@@ -9,7 +9,7 @@
 
 main:
   - title: "My Life"
-    url: /my-life/
+    url: /my_life/
 
   - title: "CV"
     url: /images/Rajveer Deka Resume Summer 2026.pdf
