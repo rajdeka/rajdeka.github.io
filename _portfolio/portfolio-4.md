@@ -1,6 +1,6 @@
 ---
 title: "Calculator Design: RCA and CLA Adders"
-excerpt: "Implemented and compared 4-bit Ripple Carry and Carry Lookahead adders with a clocked 5-bit output register."
+excerpt: "Implemented and compared 4-bit Ripple Carry and Carry Lookahead adders with a clocked 5-bit output register.<br/><img src='/images/adders.png'>"
 collection: portfolio
 ---
 
