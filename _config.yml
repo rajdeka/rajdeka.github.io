@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Rajveer (Raj) Deka"
   pronouns         : "he/him"  
-  bio              : "UT Austin Electrical and Computer Engineering student building hardware prototypes and optimizing system designs. Actively seeking industry internships."
+  bio              : "Electrical and Computer Engineering student building hardware prototypes and optimizing system designs. Actively seeking industry internships."
   location         : "Austin, TX"
   employer         : "University of Texas at Austin"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "rajdeka"
+  github           : #"rajdeka"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
