@@ -1,6 +1,6 @@
 ---
 title: "Monte Carlo Estimation of Pi using LFSRs"
-excerpt: "Developed a hardware-based Monte Carlo simulation using Linear Feedback Shift Registers (LFSRs) in Verilog to estimate Pi."
+excerpt: "Developed a hardware-based Monte Carlo simulation using Linear Feedback Shift Registers (LFSRs) in Verilog to estimate Pi.<br/><img src='/images/montecarlo.png'>"
 collection: portfolio
 ---
 
