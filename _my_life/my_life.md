@@ -4,7 +4,7 @@ title: "My Life"
 permalink: /my_life/
 author_profile: true
 redirect_from:
-  - /my-life
+  - /my_life
 ---
 
 Bio
