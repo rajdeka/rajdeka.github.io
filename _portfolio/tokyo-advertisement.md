@@ -3,7 +3,7 @@
 ---
 title: "Tokyo Advertisement Sign: Scrolling LED Display"
 header:
-teaser: "/images/your-image-name.jpg"
+
 excerpt: "Designed and implemented a multi-mode scrolling LED sign with a strict datapath and controller architecture."
 collection: portfolio
 ---
