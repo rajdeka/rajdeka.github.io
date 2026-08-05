@@ -1,6 +1,6 @@
 ---
 title: "Hardware Blackjack Simulator"
-excerpt: "Engineered a full-stack Blackjack simulator in C++ running on an MSPM0 microcontroller, integrated onto a custom PCB."
+excerpt: "Engineered a full-stack Blackjack simulator in C++ running on an MSPM0 microcontroller, integrated onto a custom PCB.<br/><img src='/images/blackjack.png'>"
 collection: portfolio
 ---
 
