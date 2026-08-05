@@ -15,3 +15,5 @@ This project combined embedded software development with custom circuit board de
 * **User Interface:** Interfaced the microcontroller with external hardware inputs (buttons) for player actions and an LCD screen for real-time visual output of the game state.
 
 **Technologies Used:** C++, MSPM0 Microcontroller, Custom PCB Design, LCD Interfacing, Embedded Systems.
+
+Link to Video Demonstration: https://l.instagram.com/?u=https%3A%2F%2Fyoutu.be%2FXbt5nLyHV3Q%3Fsi%3Dp8ECYa2rqlgBvU-c&e=AT5WSFYA0yFfICk4yTX1zerBpy9lZkb-GuPfUmhFjNtgS9RAooxhGUruw7BnsBKDkjfzs5Sec8y4LO4hOIeHYa5IS_AsWGPrzfO-184cKSfBY9XVcsRJM1IgKQca
