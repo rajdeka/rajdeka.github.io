@@ -9,7 +9,7 @@
 
 main:
   - title: "My Life"
-    url: /publications/
+    url: /my-life/
 
   - title: "CV"
     url: /images/Rajveer Deka Resume Summer 2026.pdf
@@ -18,10 +18,10 @@ main:
     url: /portfolio/
 
   - title: "Education"
-    url: /talks/    
+    url: /education/    
 
   - title: "Experience"
-    url: /teaching/    
+    url: /experience/    
         
  # - title: "Blog Posts"
  #   url: /year-archive/
