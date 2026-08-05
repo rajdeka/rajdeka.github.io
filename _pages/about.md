@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src="/images/tennis.JPG" style="float: right; max-width: 250px; margin: 0 0 20px 20px; border-radius: 8px;" alt="Tennis">
 
-
-👨🏻‍💻 I’m an undergraduate Electrical and Computer Engineering student at The University of Texas at Austin. I am actively seeking an industry internship in hardware design and microarchitecture. <br/><img src='/images/tennis.JPG'>
+👨🏻‍💻 I’m an undergraduate Electrical and Computer Engineering student at The University of Texas at Austin. I am actively seeking an industry internship in hardware design and microarchitecture. 
 
 🔬 I am focusing my studies on microchip development, circuit logic, and RTL design.
 
