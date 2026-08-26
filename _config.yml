@@ -236,6 +236,9 @@ collections:
   my_life:
       output: true
       permalink: /:collection/:path/
+  experience:
+      output: true
+      permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -296,6 +299,14 @@ defaults:
   - scope:
       path: ""
       type: my_life
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _education
+  - scope:
+      path: ""
+      type: education
     values:
       layout: single
       author_profile: true
