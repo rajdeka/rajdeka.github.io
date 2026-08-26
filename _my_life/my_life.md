@@ -9,7 +9,7 @@ redirect_from:
 
 Bio
 ------
-I’m an undergraduate student at The University of Texas at Austin pursuing a B.S. in Electrical and Computer Engineering, with a focus on hardware design and microarchitecture. My passion lies in translating complex logic into optimized physical architectures and understanding how systems operate at the foundational level. I am excited to bring this passion to the industry this fall as a Logic Designer for the High-Speed Interconnect Team at IBM in Austin, TX.<br>
+I’m an undergraduate student at The University of Texas at Austin pursuing a B.S. in Electrical and Computer Engineering, with a focus on hardware design and microarchitecture. My passion lies in translating complex logic into optimized physical architectures and understanding how systems operate at the foundational level. I am eager to bring this passion to the industry, actively seeking opportunities to contribute to and grow within a dedicated hardware engineering role.<br>
 
 Having a strong drive to learn from diverse environments has motivated me to seek out unique academic and professional challenges. Recently, I completed coursework in Digital Logic Design and Probability as a student in the Tokyo Tech program, where I also presented a digital design project at an academic showcase at J.F. Oberlin University in Shinjuku. Through my professional experiences, from conducting structural engineering research at Schneider Structural Engineering to analyzing data as an education researcher, I’ve developed a highly detail-oriented approach to problem-solving and collaboration.
 
